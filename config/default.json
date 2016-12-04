@@ -1,0 +1,7 @@
+{
+  "miner_host": "http://localhost:3333",
+  "stats_host": "",
+  "key": "",
+  "interval": 3000,
+  "name": "dev"
+}
